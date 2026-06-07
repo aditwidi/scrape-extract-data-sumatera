@@ -1,2 +1,19 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.backends.legacy:build"
+
+[project]
+name = "scrapping-sumatera"
+version = "0.1.0"
+requires-python = ">=3.10"
+dependencies = [
+    "geopandas",
+    "osmium",
+    "osmnx",
+    "pandas",
+    "tqdm",
+    "matplotlib",
+]
+
 [tool.ty.environment]
 python = ".venv"
