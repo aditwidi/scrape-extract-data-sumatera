@@ -1,0 +1,164 @@
+Provinsi,Jenis,Nama
+Aceh,Kabupaten,Aceh Barat
+Aceh,Kabupaten,Aceh Barat Daya
+Aceh,Kabupaten,Aceh Besar
+Aceh,Kabupaten,Aceh Jaya
+Aceh,Kabupaten,Aceh Selatan
+Aceh,Kabupaten,Aceh Singkil
+Aceh,Kabupaten,Aceh Tamiang
+Aceh,Kabupaten,Aceh Tengah
+Aceh,Kabupaten,Aceh Tenggara
+Aceh,Kabupaten,Aceh Timur
+Aceh,Kabupaten,Aceh Utara
+Aceh,Kabupaten,Bener Meriah
+Aceh,Kabupaten,Bireuen
+Aceh,Kabupaten,Gayo Lues
+Aceh,Kabupaten,Nagan Raya
+Aceh,Kabupaten,Pidie
+Aceh,Kabupaten,Pidie Jaya
+Aceh,Kabupaten,Simeulue
+Aceh,Kota,Banda Aceh
+Aceh,Kota,Langsa
+Aceh,Kota,Lhokseumawe
+Aceh,Kota,Sabang
+Aceh,Kota,Subulussalam
+
+Sumatera Utara,Kabupaten,Asahan
+Sumatera Utara,Kabupaten,Batu Bara
+Sumatera Utara,Kabupaten,Dairi
+Sumatera Utara,Kabupaten,Deli Serdang
+Sumatera Utara,Kabupaten,Humbang Hasundutan
+Sumatera Utara,Kabupaten,Karo
+Sumatera Utara,Kabupaten,Labuhanbatu
+Sumatera Utara,Kabupaten,Labuhanbatu Selatan
+Sumatera Utara,Kabupaten,Labuhanbatu Utara
+Sumatera Utara,Kabupaten,Langkat
+Sumatera Utara,Kabupaten,Mandailing Natal
+Sumatera Utara,Kabupaten,Nias
+Sumatera Utara,Kabupaten,Nias Barat
+Sumatera Utara,Kabupaten,Nias Selatan
+Sumatera Utara,Kabupaten,Nias Utara
+Sumatera Utara,Kabupaten,Padang Lawas
+Sumatera Utara,Kabupaten,Padang Lawas Utara
+Sumatera Utara,Kabupaten,Pakpak Bharat
+Sumatera Utara,Kabupaten,Samosir
+Sumatera Utara,Kabupaten,Serdang Bedagai
+Sumatera Utara,Kabupaten,Simalungun
+Sumatera Utara,Kabupaten,Tapanuli Selatan
+Sumatera Utara,Kabupaten,Tapanuli Tengah
+Sumatera Utara,Kabupaten,Tapanuli Utara
+Sumatera Utara,Kabupaten,Toba
+Sumatera Utara,Kota,Binjai
+Sumatera Utara,Kota,Gunungsitoli
+Sumatera Utara,Kota,Medan
+Sumatera Utara,Kota,Padangsidimpuan
+Sumatera Utara,Kota,Pematangsiantar
+Sumatera Utara,Kota,Sibolga
+Sumatera Utara,Kota,Tanjungbalai
+Sumatera Utara,Kota,Tebing Tinggi
+
+Sumatera Barat,Kabupaten,Agam
+Sumatera Barat,Kabupaten,Dharmasraya
+Sumatera Barat,Kabupaten,Kepulauan Mentawai
+Sumatera Barat,Kabupaten,Lima Puluh Kota
+Sumatera Barat,Kabupaten,Padang Pariaman
+Sumatera Barat,Kabupaten,Pasaman
+Sumatera Barat,Kabupaten,Pasaman Barat
+Sumatera Barat,Kabupaten,Pesisir Selatan
+Sumatera Barat,Kabupaten,Sijunjung
+Sumatera Barat,Kabupaten,Solok
+Sumatera Barat,Kabupaten,Solok Selatan
+Sumatera Barat,Kabupaten,Tanah Datar
+Sumatera Barat,Kota,Bukittinggi
+Sumatera Barat,Kota,Padang
+Sumatera Barat,Kota,Padang Panjang
+Sumatera Barat,Kota,Pariaman
+Sumatera Barat,Kota,Payakumbuh
+Sumatera Barat,Kota,Sawahlunto
+Sumatera Barat,Kota,Solok
+
+Riau,Kabupaten,Bengkalis
+Riau,Kabupaten,Indragiri Hilir
+Riau,Kabupaten,Indragiri Hulu
+Riau,Kabupaten,Kampar
+Riau,Kabupaten,Kepulauan Meranti
+Riau,Kabupaten,Kuantan Singingi
+Riau,Kabupaten,Pelalawan
+Riau,Kabupaten,Rokan Hilir
+Riau,Kabupaten,Rokan Hulu
+Riau,Kabupaten,Siak
+Riau,Kota,Dumai
+Riau,Kota,Pekanbaru
+
+Kepulauan Riau,Kabupaten,Bintan
+Kepulauan Riau,Kabupaten,Karimun
+Kepulauan Riau,Kabupaten,Kepulauan Anambas
+Kepulauan Riau,Kabupaten,Lingga
+Kepulauan Riau,Kabupaten,Natuna
+Kepulauan Riau,Kota,Batam
+Kepulauan Riau,Kota,Tanjungpinang
+
+Jambi,Kabupaten,Batang Hari
+Jambi,Kabupaten,Bungo
+Jambi,Kabupaten,Kerinci
+Jambi,Kabupaten,Merangin
+Jambi,Kabupaten,Muaro Jambi
+Jambi,Kabupaten,Sarolangun
+Jambi,Kabupaten,Tanjung Jabung Barat
+Jambi,Kabupaten,Tanjung Jabung Timur
+Jambi,Kabupaten,Tebo
+Jambi,Kota,Jambi
+Jambi,Kota,Sungai Penuh
+
+Bengkulu,Kabupaten,Bengkulu Selatan
+Bengkulu,Kabupaten,Bengkulu Tengah
+Bengkulu,Kabupaten,Bengkulu Utara
+Bengkulu,Kabupaten,Kaur
+Bengkulu,Kabupaten,Kepahiang
+Bengkulu,Kabupaten,Lebong
+Bengkulu,Kabupaten,Mukomuko
+Bengkulu,Kabupaten,Rejang Lebong
+Bengkulu,Kabupaten,Seluma
+Bengkulu,Kota,Bengkulu
+
+Sumatera Selatan,Kabupaten,Banyuasin
+Sumatera Selatan,Kabupaten,Empat Lawang
+Sumatera Selatan,Kabupaten,Lahat
+Sumatera Selatan,Kabupaten,Muara Enim
+Sumatera Selatan,Kabupaten,Musi Banyuasin
+Sumatera Selatan,Kabupaten,Musi Rawas
+Sumatera Selatan,Kabupaten,Musi Rawas Utara
+Sumatera Selatan,Kabupaten,Ogan Ilir
+Sumatera Selatan,Kabupaten,Ogan Komering Ilir
+Sumatera Selatan,Kabupaten,Ogan Komering Ulu
+Sumatera Selatan,Kabupaten,Ogan Komering Ulu Selatan
+Sumatera Selatan,Kabupaten,Ogan Komering Ulu Timur
+Sumatera Selatan,Kabupaten,Penukal Abab Lematang Ilir
+Sumatera Selatan,Kota,Lubuklinggau
+Sumatera Selatan,Kota,Pagar Alam
+Sumatera Selatan,Kota,Palembang
+Sumatera Selatan,Kota,Prabumulih
+
+Kepulauan Bangka Belitung,Kabupaten,Bangka
+Kepulauan Bangka Belitung,Kabupaten,Bangka Barat
+Kepulauan Bangka Belitung,Kabupaten,Bangka Selatan
+Kepulauan Bangka Belitung,Kabupaten,Bangka Tengah
+Kepulauan Bangka Belitung,Kabupaten,Belitung
+Kepulauan Bangka Belitung,Kabupaten,Belitung Timur
+Kepulauan Bangka Belitung,Kota,Pangkalpinang
+
+Lampung,Kabupaten,Lampung Barat
+Lampung,Kabupaten,Lampung Selatan
+Lampung,Kabupaten,Lampung Tengah
+Lampung,Kabupaten,Lampung Timur
+Lampung,Kabupaten,Lampung Utara
+Lampung,Kabupaten,Mesuji
+Lampung,Kabupaten,Pesawaran
+Lampung,Kabupaten,Pesisir Barat
+Lampung,Kabupaten,Pringsewu
+Lampung,Kabupaten,Tanggamus
+Lampung,Kabupaten,Tulang Bawang
+Lampung,Kabupaten,Tulang Bawang Barat
+Lampung,Kabupaten,Way Kanan
+Lampung,Kota,Bandar Lampung
+Lampung,Kota,Metro

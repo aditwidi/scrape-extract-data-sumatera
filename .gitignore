@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Cache
+cache/
+
+# Large input data
+data-input/*.osm.pbf
+
+# Output folders
+sumatera_fasilitas/
+sumatera_jaringan_jalan/
+visualizations/
+
+# OS
+.DS_Store
+
+#agents
+.claude
