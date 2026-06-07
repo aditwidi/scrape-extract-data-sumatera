@@ -14,7 +14,7 @@ from matplotlib.lines import Line2D
 # KONFIGURASI
 # ================================================================
 _ROOT = Path(__file__).parent.parent
-GPKG_FILE = _ROOT / "sumatera_fasilitas_pbf" / "sumatera_fasilitas_infrastruktur.parquet"
+GPKG_FILE = _ROOT / "sumatera_fasilitas" / "combined" / "sumatera_fasilitas_infrastruktur.parquet"
 OUTPUT_PNG = _ROOT / "visualizations" / "sumatera_fasilitas_map.png"
 
 # Warna dan style per kategori
